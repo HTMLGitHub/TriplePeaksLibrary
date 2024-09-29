@@ -22,10 +22,22 @@
 
 .header__title
 {
+  font-size: 66px;
+  line-height: 76px;
+  font-weight: 500;
+  color: #000000;
+  max-width: 650px;
+  margin-top: 128px;
+  margin-bottom: 32px;
 }
 
 .header__description
 {
+  font-size: 20px;
+  line-height: 30px;
+  color: #000000;
+  max-width: 500px;
+  margin:0;
 }
 
 .header__image
