@@ -455,7 +455,7 @@
 
 .footer__column_content_hours
 {
-  margin: auto;
+  margin-left: auto;
 }
 
 .footer__column_content_social
