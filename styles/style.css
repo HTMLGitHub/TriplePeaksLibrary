@@ -65,6 +65,12 @@
   text-decoration: none;
 }
 
+.header__link:hover
+{
+  color: #d35722;
+  cursor: pointer;
+}
+
 .header__address
 {
   margin: 0;
@@ -101,6 +107,12 @@
   color: #000000;
   text-decoration: none;
   font-weight: 500;
+}
+
+.nav__link:hover
+{
+  color: #d35722;
+  cursor: pointer;
 }
 
 .events {
@@ -168,9 +180,16 @@
   margin: 40px 0 60px;
 }
 
-.events__more {
+.events__more
+{
   color: #e96e3a;
   text-decoration: none;
+}
+
+.events__more:hover
+{
+  color: #d35722;
+  cursor: pointer;
 }
 
 .events__cover {
